@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace List
 {
-    class Element
+    class Element<T>
     {
+        T data;
     }
 }
