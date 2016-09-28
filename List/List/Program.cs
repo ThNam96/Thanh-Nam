@@ -10,9 +10,7 @@ namespace List
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\n");
-            Console.WriteLine("\tNam");
-            Console.ReadKey();
+           
         }
     }
 }
